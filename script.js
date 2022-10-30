@@ -1,4 +1,4 @@
-/*
+/* Enjoy the game
   Rock Paper Scissors 🚀🔥
   Concepts covered in this project
     👉 For loops
